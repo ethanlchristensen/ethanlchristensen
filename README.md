@@ -1,6 +1,6 @@
 <html>
   <h1>Hello, I am Ethan Christensen!</h1>
-  <a href="https://ibb.co/pXNcGj9"><img src="https://i.ibb.co/F7c2N4j/186452347-1996505957154764-40233611526189019-n.jpg" alt="186452347-1996505957154764-40233611526189019-n" border="0"></a><br /><a target='_blank' href='https://500pxdownload.com/'>instagram photo downloder</a><br />
+  <a href="https://ibb.co/pXNcGj9"><img src="https://i.ibb.co/F7c2N4j/186452347-1996505957154764-40233611526189019-n.jpg" alt="186452347-1996505957154764-40233611526189019-n" border="0"><br />
   <p>I am currently a Fourth Year Student at the University of Nebraska at Omaha, pursuing a Bachelor's in Computer Science. Outside of School I spend most of my time trying to reinforce my knowledge in Algorithms and Data Structures, taking care of my plants, and making music!</p>
   <ul>
     <li>🔭 I’m currently working on learning and renforcing my knowledge on Data Structures and Algorithms.</li>
