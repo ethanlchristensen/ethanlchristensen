@@ -8,6 +8,6 @@
     <li>📫 How to reach me: ethanlchristensen@outlook.com</li>
     <li>😄 Pronouns: He/Him</li>
     <li>⚡ Favorite Quote: "There are more things that frighten us than injure us. We suffer more in imagination than in reality." - Lucius Seneca</li>
-    <li>📫 My Main repository contains most of the things I am currently working on or have worked on! Feel Free to snoop around in there! ```:)```</li>
+    <li>📫 My Main repository contains most of the things I am currently working on or have worked on! Feel Free to snoop around in there! :)</li>
   </ul>
  </html>
