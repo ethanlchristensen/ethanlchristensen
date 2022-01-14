@@ -1,7 +1,9 @@
-<h1>Hello, I am Ethan Christensen!</h1>
-<p>I am currently a Fourth Year Student at the University of Nebraska at Omaha, pursuing a Bachelor's in Computer Science. Outside of School I spend most of my time trying to reinforce my knowledge in Algorithms and Data Structures, taking care of my plants, and making music!</p>
-<h2>Here is an example!</h2>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1066167061&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<html>
+  <h1>Hello, I am Ethan Christensen!</h1>
+  <p>I am currently a Fourth Year Student at the University of Nebraska at Omaha, pursuing a Bachelor's in Computer Science. Outside of School I spend most of my time trying to reinforce my knowledge in Algorithms and Data Structures, taking care of my plants, and making music!</p>
+  <h2>Here is an example!</h2>
+  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1066167061&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+ </html>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
