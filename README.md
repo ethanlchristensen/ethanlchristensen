@@ -3,9 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Technology Analyst at Fiserv
 ----------------------------
-
-<img src="https://count.getloli.com/get/@:ethanlchristensen" alt=":ethanlchristensen" />
-
 I am a recent Graduate from The University of Nebraska at Omaha with a Bachelors in Computer Science and a Minor in Mathematics.
 
 * 🌍  I'm based in Omaha, Nebraska
