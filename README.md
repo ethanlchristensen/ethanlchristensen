@@ -7,7 +7,7 @@ I am a recent Graduate from The University of Nebraska at Omaha with a Bachelors
 
 * 🌍  I'm based in Omaha, Nebraska
 * ✉️  You can contact me at [ethanlchristensen@outlook.com](mailto:ethanlchristensen@outlook.com)
-* 🚀  I'm currently working on [bruhanimate - terminal ASCII animations](http://github.com/ethanlchristensen/bruhanimate)
+* 🚀  I'm currently working on [Discord Bot in Python](https://github.com/FNBBDevs/DiscordBot)
 * 🧠  I'm learning Natural Language Processing and fun terminal-based formatting
 * 🤝  I'm open to collaborating on Anything!
 
