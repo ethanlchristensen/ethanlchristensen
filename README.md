@@ -12,8 +12,6 @@ I am a recent Graduate from The University of Nebraska at Omaha with a Bachelors
 * 🤝  I'm open to collaborating on Anything!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethanlchristensen&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=My Github Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ethanlchristensen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2&custom_title=My Languages" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ethanlchristensen&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
@@ -47,13 +45,6 @@ I am a recent Graduate from The University of Nebraska at Omaha with a Bachelors
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ethanlchristensen/count.svg?"  />
-</div>
-
-
-<div align="center">
-  <a href="https://open.spotify.com/user/etchris">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=etchris&unique={true|1|on|yes}" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
